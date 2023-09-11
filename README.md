@@ -25,6 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Viewport mostrando Iphone 14 dynamic islands apenas em css e html
 
-- [Acesse o projeto finalizado, online](https://guedescss.github.io/iphone-dynamic-islands/)
+- [Acesse o projeto finalizado, online](https://guedescss.github.io/IphoneDynamicIslands/)
 
 Feito by GuedesCSS :wave:
