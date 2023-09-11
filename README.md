@@ -12,7 +12,7 @@ Programa exclusivo e gratuito. <br/>
 <br>
 
 <p align="center">
-  <img alt="previa projeto" src=".github/preview.png" width="100%">
+  <img alt="previa projeto" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
